@@ -4,7 +4,7 @@ pluginManagement {
 	includeBuild("build-conventions")
 }
 
-val rootFolders = listOf("")
+val rootFolders = listOf("core")
 
 rootFolders.forEach { folderName ->
 	val targetDir = File(rootDir, folderName)

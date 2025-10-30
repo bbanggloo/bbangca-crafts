@@ -21,6 +21,9 @@ dependencies {
 	testImplementation("org.assertj:assertj-core:3.26.3")
 
 	// SLF4J
+	implementation("org.slf4j:slf4j-api:2.0.16")
+
+	// SLF4J 구현체
 	runtimeOnly("ch.qos.logback:logback-classic:1.5.12")
 }
 

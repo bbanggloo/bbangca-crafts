@@ -1,0 +1,40 @@
+= JDK 25(LTS)
+:revdate: 2025-09-16
+:toc: left
+
+== Release
+
+- **2025/09/16**
+
+== Features Stable
+
+* 503: Remove the 32-bit x86 Port
+* 506: Scoped Value
+* 510: Key Derivation Function API
+* 511: Module Import Declarations
+** 2025/10/30
+*** JPMS(Java Platform Module System) 의 도입 목적 중 하나는 “서로 충돌할 수 있는 패키지를 모듈 단위로 명시적으로 구분해서, 클래스패스에서 발생하던 잘못된 컴파일/런타임 동작을 방지하는 것”
+*** 위 목적 정도가 좋아 보인다.... 굳이 해당 기능을 가지고, 외부/내부 패키지를 나눠서 할 필요는 개인적으로 없어 보인다.
+* 512: Compact Source Files and Instance Main Methods
+* 513: Flexible Constructor Bodies
+* 514: Ahead-of-Time Command-Line Ergonomics
+* 515: Ahead-of-Time Method Profiling
+* 518: JFR Cooperative Sampling
+* 519: Compact Object Headers
+* 520: JFR Method Timing & Tracing
+* 521: Generational Shenandoah
+
+== Features Preview
+
+* 470: PEM Encodings of Cryptographic Objects *(Preview)*
+* 502: Stable Values *(Preview)*
+* 505: Structured Concurrency *(Fifth Preview)*
+* 507: Primitive Types in Patterns, instanceof, and switch *(Third Preview)*
+
+== Features Incubator
+
+* 508: Vector API *(Tenth Incubator)*
+
+== Features Experimental
+
+* 509: JFR CPU-Time Profiling *(Experimental)*
