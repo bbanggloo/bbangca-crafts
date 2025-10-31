@@ -8,7 +8,7 @@ repositories {
 }
 
 
-dependencies{
+dependencies {
 	// Lombok
 	implementation("io.freefair.gradle:lombok-plugin:9.0.0")
 

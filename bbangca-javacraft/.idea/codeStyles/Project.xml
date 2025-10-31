@@ -80,9 +80,6 @@
       <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="20" />
       <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="20" />
     </JetCodeStyleSettings>
-    <editorconfig>
-      <option name="ENABLED" value="false" />
-    </editorconfig>
     <codeStyleSettings language="Groovy">
       <indentOptions>
         <option name="USE_TAB_CHARACTER" value="true" />
