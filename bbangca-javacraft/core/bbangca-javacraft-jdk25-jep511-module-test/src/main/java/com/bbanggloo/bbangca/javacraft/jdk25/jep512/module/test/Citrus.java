@@ -1,4 +1,4 @@
-package com.bbanggloo.bbangca.javacraft.module.test;
+package com.bbanggloo.bbangca.javacraft.jdk25.jep512.module.test;
 
 public class Citrus {
 	private Citrus() {

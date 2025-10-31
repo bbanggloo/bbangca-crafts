@@ -4,5 +4,5 @@ plugins {
 
 dependencies {
 	// jep511 module test
-	implementation(project(":core:bbangca-javacraft-module-test"))
+	implementation(project(":core:bbangca-javacraft-jdk25-jep511-module-test"))
 }

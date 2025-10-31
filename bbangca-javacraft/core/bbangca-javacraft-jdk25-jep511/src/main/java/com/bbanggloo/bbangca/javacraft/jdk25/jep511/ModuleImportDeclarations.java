@@ -14,8 +14,8 @@ package com.bbanggloo.bbangca.javacraft.jdk25.jep511;
 //import com.bbanggloo.bbangca.javacraft.module.test.Berry;
 //import com.bbanggloo.bbangca.javacraft.module.test.Citrus;
 
-import module bbangca.javacraft.module.test;
 import module java.base;
+import module module.test;
 
 import lombok.extern.slf4j.Slf4j;
 
